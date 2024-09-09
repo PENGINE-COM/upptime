@@ -10,12 +10,12 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: status.giropro.pengine.com
-  baseUrl: /upptime
+  cname: status.giropro.pengine.com
+  # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/PENGINE-COM/upptime/master/assets/PENGINE_KUBUS_FC.svg
   name: GiroPro
   introTitle: "**GiroPro** Your Partner for Fund Administration."
   introMessage: Status information about the the GiroPro application
   navbar:
     - title: Status
-      href: /upptime
+      href: /

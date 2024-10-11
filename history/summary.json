@@ -4,7 +4,7 @@
     "url": "https://api.giropro.pengine.com/hc",
     "icon": "https://icons.duckduckgo.com/ip3/api.giropro.pengine.com.ico",
     "slug": "giro-pro-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 384,
     "timeMonth": 538,
     "timeYear": 489,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-11": 0
+    }
   },
   {
     "name": "GiroPro Identity Server",

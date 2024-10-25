@@ -4,19 +4,19 @@
     "url": "https://api.giropro.pengine.com/hc",
     "icon": "https://icons.duckduckgo.com/ip3/api.giropro.pengine.com.ico",
     "slug": "giro-pro-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 468,
-    "timeDay": 430,
-    "timeWeek": 398,
-    "timeMonth": 388,
-    "timeYear": 468,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 466,
+    "timeDay": 400,
+    "timeWeek": 392,
+    "timeMonth": 386,
+    "timeYear": 466,
     "dailyMinutesDown": {
-      "2024-10-25": 0
+      "2024-10-25": 9
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://ids.giropro.pengine.com/hc",
     "icon": "https://icons.duckduckgo.com/ip3/ids.giropro.pengine.com.ico",
     "slug": "giro-pro-identity-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 419,
-    "timeDay": 410,
-    "timeWeek": 382,
-    "timeMonth": 395,
-    "timeYear": 419,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.35%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 418,
+    "timeDay": 392,
+    "timeWeek": 379,
+    "timeMonth": 393,
+    "timeYear": 418,
     "dailyMinutesDown": {
-      "2024-10-25": 0
+      "2024-10-25": 9
     }
   }
 ]
